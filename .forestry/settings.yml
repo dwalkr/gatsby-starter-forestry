@@ -47,3 +47,4 @@ build:
   instant_preview_command: yarn run forestry:preview
   preview_docker_image: node:10
   mount_path: "/srv"
+  working_dir: "/srv"
